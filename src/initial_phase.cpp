@@ -2,9 +2,6 @@
 * 
 * @file initial_phase.cpp
 * @brief Node to implement the initial phase service 
-* @author Alice Nardelli
-* @version 0.1
-* @date 07/01/2022
 *
 *
 *
