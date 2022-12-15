@@ -93,7 +93,7 @@ The ROS packages needded to compile the code are:
 
 ## How to compile the code
 
-Clone [erl_assignment2](https://github.com/AliceNardelli/erl_assignment2) repository.
+Clone [erl_assignment2](https://github.com/Farzinsvi/erl_assignment2) repository.
 Build the workspace:
 
 > catkin_make -DCATKIN_WHITELIST_PACKAGES=""
