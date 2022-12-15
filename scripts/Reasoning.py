@@ -2,8 +2,6 @@
 '''
 Module:
 	Reasoning
-Author:
-	Alice Nardelli alice.nardelli98@gmail.com
 ROS nodes that implement the master of the Software Architecture and menages the whole simulation
 Service Client :
 	/armor_interface to load the ontology
