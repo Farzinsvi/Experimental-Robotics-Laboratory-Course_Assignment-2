@@ -2,9 +2,6 @@
 * 
 * @file grippermotion.cpp
 * @brief Node to implement the check correct action 
-* @author Alice Nardelli
-* @version 0.1
-* @date 07/01/2022
 *
 *
 *
